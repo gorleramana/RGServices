@@ -1,4 +1,4 @@
-package rg.services.RGServices;
+package com.rg.services.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
